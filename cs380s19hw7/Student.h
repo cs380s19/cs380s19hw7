@@ -22,7 +22,8 @@ public:
 
 	// empty constructor
 	Student ();
-
+	
+	
 	// destructor. 
 	~Student ();
 
